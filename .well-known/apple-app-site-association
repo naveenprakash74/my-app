@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "FTDD29YAQV.com.PGE.review",
+        "paths": [
+          "NOT /__/auth/action/",
+          "NOT /__/auth/handler/",
+          "NOT /_/*",
+          "NOT /",
+          "/outage"
+        ]
+      }
+    ]
+  }
+}
